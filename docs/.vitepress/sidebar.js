@@ -12,7 +12,7 @@ export default [
   {
     text: "服务",
     items: [
-      { text: "定制", link: "/serve/custom", },
+      { text: "软件定制", link: "/serve/custom", },
     ],
   }
 ];
