@@ -2,12 +2,12 @@
 layout: home
 
 title: SysRi Docs
-titleTemplate: 一个纯净、简单的系统重装工具
+titleTemplate: 一个纯净、强大的系统重装工具
 sidebar: false
 
 hero:
   name: SysRi
-  text: 一个纯净、简单的系统重装工具
+  text: 一个纯净、强大的系统重装工具
   tagline: 
   actions:
     - theme: brand
