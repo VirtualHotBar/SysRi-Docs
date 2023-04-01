@@ -15,4 +15,4 @@ hero:
       link: /started
     - theme: alt
       text: 个人博客
-      link: [https://github.com/VirtualHotBar/ExamNotesForJuniorMiddleSchool/tree/main/docs](https://blog.hotpe.top/)
+      link: https://blog.hotpe.top/
