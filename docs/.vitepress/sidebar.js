@@ -10,9 +10,9 @@ export default [
     ],
   },
   {
-    text: "总览",
+    text: "服务",
     items: [
-      { text: "状态", link: "/overview/state", },
+      { text: "定制", link: "/serve/custom", },
     ],
   }
 ];
