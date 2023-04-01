@@ -16,3 +16,13 @@ hero:
     - theme: alt
       text: 个人博客
       link: https://blog.hotpe.top/
+      
+features:
+  - title: 纯净
+    details: 真正纯净、无广告、无劫持、无后门，装完系统后删除流氓软件的日子一去不复返！
+  - title: 强大
+    details: 拥有丰富的驱动兼容性极强，内置50+实用工具有你需要的一切，丰富的模块使PE拥有无限可能。
+  - title: 优雅
+    details: 一键安装无需多余操作，一切的界面以简洁、实用的设计语言使使用体验变得无比清爽。
+
+---
