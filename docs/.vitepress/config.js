@@ -4,7 +4,7 @@ import sidebar from "./sidebar";
 export default defineConfig({
   lang: "zh-CN",
   title: "SysRi Docs",
-  description: "一个纯净、强大的系统重装工具",
+  description: "一个纯净、强大、易用的系统重装工具",
   lastUpdated: true,
   base: "/",
   head: [
