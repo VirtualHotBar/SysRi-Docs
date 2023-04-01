@@ -1,7 +1,7 @@
 ---
 layout: home
 
-title: SysRi
+title: SysRi Docs
 titleTemplate: 一个纯净、简单的系统重装工具
 sidebar: false
 
