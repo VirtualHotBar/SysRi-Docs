@@ -25,7 +25,7 @@ export default defineConfig({
     nav: [
       {
         text: "首页",
-        link: "https://www.sysri.cn/",
+        link: "https://sysri.cn/",
       },
       {
         text: "下载站",
