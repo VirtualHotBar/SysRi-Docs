@@ -27,10 +27,6 @@ export default defineConfig({
         text: "首页",
         link: "https://sysri.cn/",
       },
-      {
-        text: "下载站",
-        link: "https://down.sysri.cn/",
-      },
     ],
     footer: {
       message: "Released under the MIT License.",
