@@ -2,7 +2,11 @@
 
 目前软件处于测试阶段，但也比较稳定。会有适当优惠，请先体验软件再咨询。
 
-有意愿请进群找 **群主(VirtualHotBar)** 咨询，[加官方Q群](https://sysri.cn/QQGroup/)。
+> 有意愿请找开发者 **VirtualHotBar** 咨询,[Q:3143771718](https://wpa.qq.com/msgrd?v=3&uin=2445408174&site=qq&menu=yes&jumpflag=1)、V:by510vhb。
+>
+> [官方Q群](https://sysri.cn/QQGroup/)
+
+
 
 ## 定价
 ### 须知
