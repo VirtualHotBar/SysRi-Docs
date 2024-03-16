@@ -26,6 +26,9 @@ export default defineConfig({
       {
         text: "首页",
         link: "https://sysri.cn/",
+      },      {
+        text: "定制",
+        link: "https://custom.sysri.cn/",
       },
     ],
     footer: {
