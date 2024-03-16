@@ -1,5 +1,15 @@
 # 软件定制说明
 
+## 可选
+
+[装机软件](https://docs.sysri.cn/serve/custom/sysri.html)
+
+[WinPE](https://docs.sysri.cn/serve/custom/winpe.html)
+
+[Web网站](https://docs.sysri.cn/serve/custom/web.html)
+
+[其他软件](https://docs.sysri.cn/serve/custom/other.html)
+
 ## 联系
 体验软件和清楚需求后，有意愿请找开发者 **VirtualHotBar** 咨询
 
